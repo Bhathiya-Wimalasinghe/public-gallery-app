@@ -2,7 +2,7 @@ const btnUpload = $("#btn-upload");
 const overlayElm = $("#overlay");
 const dropzoneElm = $("#dropzone");
 const REST_API_URL = `http://localhost:8080/gallery`;
-
+const cssLoaderHtml = `<div class="lds-default"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>`;
 
 /* ---------------------------------------------------------------------------- */
 
@@ -24,6 +24,25 @@ $(document).on('keydown', (evt) => {
     }
 });
 
+// Prevent default action of dragover event
+dropzoneElm.on('dragover', (evt) =>evt.preventDefault());
+
+overlayElm.on('dragover',(evt)=>evt.preventDefault());
+
+// Prevent default action of drop event
+overlayElm.on('drop',(evt)=>evt.preventDefault());
+
+// Get the details of the images dragged to dropzone and upload that images to the server
+dropzoneElm.on('drop', (evt) => {
+    evt.preventDefault();
+    const droppedFiles = evt.originalEvent.dataTransfer.files;
+    const imageFiles = Array.from(droppedFiles).filter(file => file.type.startsWith("image/"));
+    if (!imageFiles.length) return;
+    overlayElm.addClass("d-none");
+    uploadImages(imageFiles);
+});
+
+
 /* ---------------------------------------------------------------------------- */
 
 // This function send GET request to the server and loaded all the images of the server in to webpage
@@ -44,4 +63,39 @@ function loadAllImages() {
         });
     });
 }
+
+// This function send POST request to the server and upload all the images which are dragged to the inside of the dropzone
+function uploadImages(imageFiles) {
+    alert("dropzone");
+
+    const formData = new FormData();
+
+    imageFiles.forEach(imageFile => {
+        const divElm = $(`<div class="image loader"></div>`);
+        divElm.append(cssLoaderHtml);
+        mainElm.append(divElm);
+        formData.append("images",imageFile);
+    });
+
+    const jqxhr = $.ajax(`${REST_API_URL}/images`, {
+        method: 'POST',
+        data: formData,
+        contentType: false,
+        processData: false
+    });
+
+
+    jqxhr.done((imageUrlList) => {
+        imageUrlList.forEach(imageUrl =>{
+            const divElm = $(".image.loader").first();
+            divElm.css('background-image',`url('${imageUrl}`);
+            divElm.empty();
+            divElm.removeClass("loader");
+        })
+    });
+    jqxhr.always(() => {
+        $(".image.loader").remove();
+    });
+}
+
 
