@@ -1,9 +1,9 @@
 6792
-100/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/dist/index.59a40e7a.js.map1685763572808272916 0
+100/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/dist/index.59a40e7a.js.map1685772409246958601 0
 97/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/dist/index.ab0485ab.css1685763572768282245 0
 100/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/dist/index.bb9d3ade.js.map1685763572808272916 0
-89/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/dist/index.html1685763866491167985 0
-78/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/dist1685763866491167985 1
+89/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/dist/index.html1685771409517608883 0
+78/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/dist1685772409246958601 1
 86/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/package.json1685762993093278267 0
 102/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/detect-libc/lib1685763091387831145 1
 98/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/detect-libc1685763091367833398 1
@@ -273,7 +273,7 @@
 114/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@swc/helpers/esm/_update.js1685763091951767586 0
 137/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@swc/helpers/esm/_tagged_template_literal_loose.js1685763091931769839 0
 137/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@swc/helpers/esm/_unsupported_iterable_to_array.js1685763091951767586 0
-96/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/dist/index.59a40e7a.js1685763572788277580 0
+96/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/dist/index.59a40e7a.js1685772409242958580 0
 131/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@swc/helpers/esm/_class_private_field_get.js1685763091815782911 0
 111/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@swc/helpers/esm/_jsx.js1685763091903772994 0
 125/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@swc/helpers/esm/_non_iterable_rest.js1685763091907772543 0
@@ -1117,7 +1117,7 @@
 133/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@parcel/package-manager/src/JSONParseStream.js1685763091663800041 0
 121/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/lmdb/node_modules/msgpackr/pack.js1685763091559811761 0
 112/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/sass/types/value/map.d.ts1685763091963766232 0
-97/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/dist/index.044e704e.css1685763572768282245 0
+97/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/dist/index.044e704e.css1685770981399157434 0
 131/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/lmdb/node_modules/msgpackr/dist/index.js.map1685763091703795533 0
 127/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/lmdb/node_modules/msgpackr/dist/index.js1685763091519816268 0
 135/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/lmdb/node_modules/msgpackr/dist/index.min.js.map1685763091719793730 0
@@ -2795,7 +2795,7 @@
 111/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/htmlparser2/package.json1685763091411828440 0
 139/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/caniuse-lite/data/features/prefers-reduced-motion.js1685763092139746530 0
 118/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/css-tree/lib/tokenizer/types.js1685763092019759934 0
-77/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/src1685763866387173745 1
+77/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/src1685771409345607931 1
 97/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/css-select1685763091719793730 1
 107/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/term-size/index.d.ts1685763091459823031 0
 132/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@parcel/watcher/src/windows/WindowsBackend.hh1685763091603806802 0
@@ -2871,7 +2871,7 @@
 137/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/caniuse-lite/data/features/document-execcommand.js1685763092003761721 0
 140/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/css-select/node_modules/domutils/lib/esm/stringify.js1685763091491819424 0
 136/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/csso/node_modules/css-tree/lib/parser/sequence.js1685763092011760828 0
-87/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/src/js/app.js1685763426781677934 0
+87/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/src/js/app.js1685772409078957718 0
 134/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/midl.c1685763091783786518 0
 133/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@swc/helpers/src/_class_private_method_set.mjs1685763092115749211 0
 139/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/animate.css/source/bouncing_entrances/bounceInUp.css1685763091583809056 0
@@ -2902,7 +2902,7 @@
 136/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@parcel/optimizer-svgo/node_modules/mdn-data/l10n1685763091419827538 1
 112/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/jquery/src/ajax/script.js1685763091863777502 0
 124/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/css-tree/cjs/syntax/scope/default.cjs1685763091675798688 0
-94/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/src/scss/styles.scss1685763396053544928 0
+94/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/src/scss/styles.scss1685770981203156263 0
 129/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@parcel/config-default/test/config.test.js1685763091323838357 0
 116/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/lightningcss/node/ast.js.flow1685763091435825735 0
 138/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/css-select/node_modules/dom-serializer/package.json1685763091427826637 0
@@ -3183,7 +3183,7 @@
 111/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@swc/helpers/_/_defaults1685763092047756806 1
 118/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/caniuse-lite/data/regions/CH.js1685763091799784714 0
 118/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/caniuse-lite/data/regions/PR.js1685763092135746978 0
-80/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/src/js1685763426781677934 1
+80/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/src/js1685772409110957886 1
 100/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@parcel/utils1685763091843779755 1
 161/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@parcel/optimizer-htmlnano/node_modules/mdn-data/css/selectors.schema.json1685763091619804999 0
 118/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/caniuse-lite/data/regions/UG.js1685763092167743402 0
@@ -3881,7 +3881,7 @@
 128/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/caniuse-lite/data/features/textencoder.js1685763092163743850 0
 129/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/lmdb/node_modules/node-addon-api/nothing.c1685763091243847372 0
 135/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@popperjs/core/lib/utils/expandToHashMap.js.flow1685763091947768036 0
-82/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/src/scss1685763396053544928 1
+82/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/src/scss1685770981211156311 1
 121/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@parcel/watcher/src/unix/legacy.cc1685763091491819424 0
 107/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@babel/highlight/lib1685763091299841061 1
 121/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/css-tree/lib/syntax/node/Number.js1685763091995762627 0
@@ -4011,7 +4011,7 @@
 131/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@msgpackr-extract/msgpackr-extract-linux-x641685763091415827990 1
 110/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/js-yaml/lib/type/str.js1685763091623804548 0
 95/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/error-ex1685763091299841061 1
-101/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/dist/index.044e704e.css.map1685763572768282245 0
+101/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/dist/index.044e704e.css.map1685770981399157434 0
 130/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@popperjs/core/lib/modifiers/offset.js.flow1685763091927770289 0
 119/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/entities/lib/decode_codepoint.js1685763091299841061 0
 124/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@parcel/core/test/BundleGraph.test.js1685763091743791025 0
@@ -4238,7 +4238,7 @@
 138/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/css-select/node_modules/entities/lib/esm/index.d.ts1685763091739791477 0
 126/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/@swc/helpers/_/_iterable_to_array_limit1685763092063755019 1
 118/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/caniuse-lite/data/regions/CY.js1685763091983763978 0
-88/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/src/index.html1685763866383173966 0
+88/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/src/index.html1685771409337607886 0
 105/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/jquery/src/effects1685763091887774797 1
 125/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/jquery/src/effects/animatedSelector.js1685763091531814916 0
 132/home/bhathiya/Documents/DEP-10/git-projects/public-gallery-app/front-end/node_modules/caniuse-lite/data/features/input-minlength.js1685763092067754573 0
